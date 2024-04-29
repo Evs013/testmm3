@@ -98,5 +98,4 @@ void yield() {                                                  //Цикл пр�
       //Serial.println("CLOSE");
     }
   }
-    delay(100);
 }
